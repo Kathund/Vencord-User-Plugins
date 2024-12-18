@@ -1,0 +1,42 @@
+[submodule "userflags"]
+	path = userflags
+	url = https://git.nin0.dev/userplugins/userflags.git
+[submodule "vc-atsomeone"]
+	path = vc-atsomeone
+	url = https://github.com/Masterjoona/vc-atsomeone.git
+[submodule "vc-ctrlEnterSave"]
+	path = vc-ctrlEnterSave
+	url = https://github.com/sadan4/vc-ctrlEnterSave.git
+[submodule "vc-followUser"]
+	path = vc-followUser
+	url = https://github.com/D3SOX/vc-followUser.git
+[submodule "vc-fullUserInChatbox"]
+	path = vc-fullUserInChatbox
+	url = https://github.com/sadan4/vc-fullUserInChatbox.git
+[submodule "vc-ignoreTerms"]
+	path = vc-ignoreTerms
+	url = https://github.com/D3SOX/vc-ignoreTerms.git
+[submodule "vc-mediaPlaybackSpeed"]
+	path = vc-mediaPlaybackSpeed
+	url = https://github.com/D3SOX/vc-mediaPlaybackSpeed.git
+[submodule "vc-messageColors"]
+	path = vc-messageColors
+	url = https://github.com/henmalib/vc-messageColors.git
+[submodule "vc-newPluginsManager"]
+	path = vc-newPluginsManager
+	url = https://github.com/Sqaaakoi/vc-newPluginsManager.git
+[submodule "vc-notifyUserChanges"]
+	path = vc-notifyUserChanges
+	url = https://github.com/D3SOX/vc-notifyUserChanges.git
+[submodule "vc-staticTitle"]
+	path = vc-staticTitle
+	url = https://github.com/sadan4/vc-staticTitle.git
+[submodule "vc-voiceChatUtilities"]
+	path = vc-voiceChatUtilities
+	url = https://github.com/D3SOX/vc-voiceChatUtilities.git
+[submodule "vencord-whos-watching"]
+	path = vencord-whos-watching
+	url = https://github.com/fres621/vencord-whos-watching.git
+[submodule "videoStartNotifier"]
+	path = videoStartNotifier
+	url = https://github.com/redbaron2k7/videoStartNotifier.git
